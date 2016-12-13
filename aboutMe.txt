@@ -1,2 +1,6 @@
 added one line
+<<<<<<< HEAD
 changes made
+=======
+
+>>>>>>> parent of 33ea2bc... added one more second line

@@ -1,0 +1,20 @@
+press windows key + R
+in the open section type "cmd"
+c:\Users\Curtis>cd Desktop
+c:\Users\Curtis\Desktop>md test
+c:\Users\Curtis\Desktop>cd test
+c:\Users\Curtis\Desktop\test>copy nul index.html
+c:\Users\Curtis\Desktop\test>copy nul style.css
+c:\Users\Curtis\Desktop\test>copy nul aboutMe.txt
+c:\Users\Curtis\Desktop\test>git init
+c:\Users\Curtis\Desktop\test>git add .
+c:\Users\Curtis\Desktop\test>git commit -m "Committing aboutMe index and style"
+c:\Users\Curtis\Desktop\test>git add aboutMe.txt
+c:\Users\Curtis\Desktop\test>git commit -m "updated aboutMe"
+c:\Users\Curtis\Desktop\test>git add aboutMe.txt
+c:\Users\Curtis\Desktop\test>git commit -m "added favorite movie to aboutMe"
+c:\Users\Curtis\Desktop\test>git log
+c:\Users\Curtis\Desktop\test>git revert -n HEAD
+c:\Users\Curtis\Desktop\test>git commit -m "file reverted"
+c:\Users\Curtis\Desktop\test>git add aboutMe.txt
+c:\Users\Curtis\Desktop\test>git commit -m "changes made"
